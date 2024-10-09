@@ -1,4 +1,4 @@
-**Drivers with high probability to accept the **bar coupon** have the following characteristics: **
+****Drivers with high probability to accept the **bar coupon** have the following characteristics:******
 1. weather is sunny
 2. temperature is not too hot or too cold
 3. destination is not work
