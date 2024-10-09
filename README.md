@@ -1,4 +1,4 @@
-Drivers with high probability to accept the **bar coupon** have the following characteristics: 
+**Drivers with high probability to accept the **bar coupon** have the following characteristics: **
 1. weather is sunny
 2. temperature is not too hot or too cold
 3. destination is not work
@@ -10,7 +10,7 @@ Drivers with high probability to accept the **bar coupon** have the following ch
 9. also,they at least go to bar once a month
 
 
-Driver who are more likely to accept coupons for **carry out & take away** have the following characteristics:
+**Driver who are more likely to accept coupons for **carry out & take away** have the following characteristics:**
 1. destination: if the destination is work, drivers are less likely to accept but still with a high probability as 66%
 2. passengers: if the passengers are kid, the probability is a bit lower but still close to 70%
 3. wheather: not rainy
