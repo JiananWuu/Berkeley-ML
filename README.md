@@ -1,21 +1,20 @@
-****Drivers with high probability to accept the **bar coupon** have the following characteristics:****
-1. weather is sunny
-2. temperature is not too hot or too cold
-3. destination is not work
-4. not with kids or partner
-5. male is more likely to accept than female
-6. age is less than 25. driver is not divorced or have a married partner, single particularly
-7. lower education tend to have higher tendency
-8. the higher income, the less likely they accept the coupon
-9. also,they at least go to bar once a month
+## Bar Coupon Analysis
+# The probability to accept the bar coupon is more related to the following characteristics:
+- Destination: when the destination is work, only 37% accept
+- Passenger: when the passengers are kids, only 20% accept
+- Age: The acceptance rate for '50plus' is only 29%
+- Marital Status: The acceptance rate for the 'divorced' only 23% ; Single has more than 50% chance to accept
+- If has children: when people 'have kids', only 30% accept
+- Bar Frequency: The acceptance rate for those who go to bar more than once a month is more than 60%
+
+# Recommendations
+Target customers whose destination is not work, the passenger is not with kids, age under 50, not divorced, has no kids and at least go to bar once a month.
 
 
-**Driver who are more likely to accept coupons for **carry out & take away** have the following characteristics:**
-1. destination: if the destination is work, drivers are less likely to accept but still with a high probability as 66%
-2. passengers: if the passengers are kid, the probability is a bit lower but still close to 70%
-3. wheather: not rainy
-4. time: not too early like 7AM
-5. gender or age group have little influence on the probability
-6. marrital status: widowed people are more likely to accept
-7. income: except for the group with extremly high income - more than 100k
-8. frequency: at least to have carry out once a month
+## Carry out & Take away Coupon Analysis
+# Findings
+- The acceptance rate for coupons for Carry out & Take away are generally very high - 73%
+- Different characteristics show very little difference between various categories
+
+# Recommendations
+Target all customers would probably be the most efficient method.
